@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **williamdunbar/williamdunbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi everyone 👋
+🔭 I’m currently learning in Military Technical Academy.
+🌱 I’m currently learning Web Security & Vulnerability Exploit & Bug Bounty.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbxiglk0&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
